@@ -20,8 +20,8 @@ function App() {
       <div className='app-navbar'><Navbar/></div>
       <div className='app-nav-content'> 
         <Routes>
-          <Route exact path='/' element={<Home/>}/>
-          <Route path='/profile' element={<Profile/>}/>
+          <Route  path='/' element={<Home/>}/>
+          <Route exact path='/profile' element={<Profile/>}/>
           <Route path='/notification' element={<Notification/>}/>
           <Route path= '*' element={<NotFound/>}/>
           <Route exact path='/clock' element={<Clock/>}/>
