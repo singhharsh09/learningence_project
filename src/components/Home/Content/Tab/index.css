@@ -1,0 +1,22 @@
+.home-content-tab{
+    display: flex;
+    margin: 10px 0;
+    padding: 5px 0;
+    /* overflow-x: scroll; */
+    background: rgb(215, 210, 210);
+    border-radius: 1rem;
+}
+.home-content-tab-box{
+    padding: 5px;
+    width: 10%;
+    text-align: center;
+    &:hover{
+        background: rgb(196, 187, 181);
+        border-radius: 15px;
+        cursor: pointer;
+    }
+}
+.activetab {
+    background: rgb(244, 237, 237);
+        border-radius: 15px;
+}

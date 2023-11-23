@@ -1,0 +1,33 @@
+/* styles.css */
+.image-container {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .text-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin: 2px; /* Adjust margin as needed */
+    color: rgb(22, 19, 14); /* Adjust text color */
+    font-size: 12px; /* Adjust font size */
+    font-weight: bold; /* Adjust font weight if needed */
+  }
+  .text-overlay-top {
+    position: absolute;
+   top: 0;
+   right: 0;
+    margin: 2px; /* Adjust margin as needed */
+    color: rgb(22, 19, 14); /* Adjust text color */
+    font-size: 12px; /* Adjust font size */
+    font-weight: bold; 
+    border-radius: 1rem;
+    background: rgb(230, 181, 219);
+    cursor: pointer;
+    
+  }
+  .name{
+    border-radius:1rem;
+    background: rgb(239, 235, 229);
+  }
+  

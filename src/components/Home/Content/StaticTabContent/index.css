@@ -1,0 +1,13 @@
+.home-tab-static_tab_content{
+    
+    /* border: 1px solid red; */
+    width: 20%;
+    height: 80vh;
+    
+}
+.static_content{
+  border-radius: 20px;
+    /* border: 2px solid blue; */
+    height: 30vh;
+    margin: 4px;
+}
