@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/learningence_project/static/css/main.b8a65528.css",
+    "main.js": "/learningence_project/static/js/main.3ad7430b.js",
+    "static/media/whitehat-jr-logo.jpg": "/learningence_project/static/media/whitehat-jr-logo.0f30ca16f9d3004384ce.jpg",
+    "static/media/img1.avif": "/learningence_project/static/media/img1.af9e5c7758b765461bb4.avif",
+    "index.html": "/learningence_project/index.html",
+    "main.b8a65528.css.map": "/learningence_project/static/css/main.b8a65528.css.map",
+    "main.3ad7430b.js.map": "/learningence_project/static/js/main.3ad7430b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8a65528.css",
+    "static/js/main.3ad7430b.js"
+  ]
+}
